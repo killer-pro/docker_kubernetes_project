@@ -14,8 +14,8 @@ Before you begin, ensure you have the following installed on your system:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/killer-pro/projet_devops
-cd projet_devops
+git clone https://github.com/killer-pro/docker_kubernetes_project
+cd docker_kubernetes_project
 ```
 
 ### 2. Environment Configuration
